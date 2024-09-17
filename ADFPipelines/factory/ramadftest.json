@@ -1,0 +1,9 @@
+{
+	"name": "ramadftest",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cffa55b5-2fee-4891-9316-5afc86ee1154",
+		"tenantId": "09832755-03ba-4fe8-bb8b-9f2dfd998727"
+	}
+}
